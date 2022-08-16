@@ -9,13 +9,13 @@ door Willem Kossen, Lead Architect van BKWI
 
 ![Agile Manifesto in ArchiMate image](Agile-Manifesto-in-Archimate-NL.png)
 
-Source file: [Agile-Manifesto.archimate](Agile-Manifesto-NL.archimate)
+Source file: [Agile-Manifesto-NL.archimate](Agile-Manifesto-NL.archimate)
 
 ## 12 Principles of Agile Software
 
 ![12 Principles of Agile Software image](12-Agile-Principes-NL.png)
 
-Source file: [Agile-Manifesto.archimate](Agile-Manifesto-NL.archimate) (same file as above).
+Source file: [Agile-Manifesto-NL.archimate](Agile-Manifesto-NL.archimate) (same file as above).
 
 This is the Dutch language translation of https://github.com/teterkin/Agile-manifesto-in-ArchiMate
 I'm thankful for his work on which i could build this one.
